@@ -1,0 +1,12 @@
+{
+  "name": "hoppinger/no_wp_logo",
+  "description": "WordPress plugin to disable the wp logo in the admin bar.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastiaan de Geus",
+      "email": "sebastiaan@hoppinger.com"
+    }
+  ]
+}
